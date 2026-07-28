@@ -1,0 +1,11 @@
+{
+  "row_count": 40056,
+  "start_timestamp": "2022-01-01T00:00:00",
+  "end_timestamp": "2026-07-28T00:00:00",
+  "duplicate_timestamps": 0,
+  "missing_timestamps": 1,
+  "missing_ontario_demand": 0,
+  "missing_market_demand": 0,
+  "minimum_ontario_demand_mw": 10485.0,
+  "maximum_ontario_demand_mw": 25646.0
+}

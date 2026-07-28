@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/bronze/*
+data/silver/*
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+

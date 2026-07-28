@@ -1,0 +1,22 @@
+{
+  "model": {
+    "mae_mw": 1127.394536714724,
+    "rmse_mw": 1420.1213391617027,
+    "mape_percent": 6.276604990198437,
+    "r2": 0.7549054770214934
+  },
+  "seasonal_naive_baseline": {
+    "mae_mw": 1858.3754410726888,
+    "rmse_mw": 2350.873628208893,
+    "mape_percent": 10.455252740784488,
+    "r2": 0.32835270804282657
+  },
+  "mae_improvement_percent": 39.33440402850078,
+  "train_rows": 37008,
+  "validation_rows": 1440,
+  "test_rows": 1417,
+  "train_end": "2026-03-30T23:00:00",
+  "validation_end": "2026-05-29T23:00:00",
+  "test_end": "2026-07-28T00:00:00",
+  "prediction_interval": "Empirical 90% interval calibrated on validation residuals"
+}
