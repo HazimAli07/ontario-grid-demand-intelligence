@@ -38,7 +38,7 @@ Exact machine-readable results live in [`data/gold/model_metrics.json`](data/gol
 - Empirical 90% prediction intervals calibrated on validation residuals
 - Dashboard-ready Gold tables and Databricks SQL
 - A polished Streamlit application for executive and operational exploration
-- Automated unit tests with a CI-ready workflow kept in the local deliverable
+- Automated unit tests enforced with GitHub Actions CI
 
 ## Architecture
 
@@ -120,7 +120,7 @@ The metrics above were reproduced locally. The Databricks notebook is structural
 
 ## Technology
 
-Python · pandas · scikit-learn · PySpark · Delta Lake · SQL · Databricks · Streamlit · Plotly · pytest
+Python · pandas · scikit-learn · PySpark · Delta Lake · SQL · Databricks · Streamlit · Plotly · pytest · GitHub Actions
 
 ## Author
 
